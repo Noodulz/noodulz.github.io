@@ -1,11 +1,9 @@
-# Windows 95 Theme for Jekyll
+# About
+Portfolio website hosting my CV, deployed web apps, blog posts, and writeups. Welcome and enjoy!
 
-![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
 
-Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
 
-Demo: [Click here](https://h01000110.github.io/windows-95/)
 
-Author: [h01000110 (hi)](https://github.com/h01000110)
-
+## Additional Notes
+Theme forked from: [h01000110](https://github.com/h01000110) <br>
 License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)
